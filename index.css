@@ -114,22 +114,46 @@
   
   }
 
+  #container{
+  display:grid;
+  column-gaps:2px;
+  grid-template-rows:repeat(3,1fr)
+  }
 
   #plus{
+  height:30px;
+  width:30px;
+  display:flex;
+  align-items:top-right;
+  }
+
+  #minus{
+  height:30px;
+  width:30px;
+  display:flex;
+  align-items:top-right;
+  }
+
+  #multiply{
     height:30px;
     width:30px;
     display:flex;
     align-items:top-right;
   }
 
-
-  #container{
-    display:grid;
-    column-gaps:2px;
-    grid-template-rows:repeat(3,1fr)
+  #divide{
+   height:30px;
+  width:30px;
+  display:flex;
+  align-items:top-right;
   }
 
-
+  #ans{
+  height:30px;
+  width:30px;
+  display:flex;
+  align-items:top-right;
+  }
 
 
 
