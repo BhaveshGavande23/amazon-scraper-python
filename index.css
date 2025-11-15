@@ -5,7 +5,6 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
   
   }
 
@@ -16,7 +15,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+  
   }
 
   #c{
@@ -26,7 +25,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+  
   }
 
   #d{
@@ -36,7 +35,7 @@
   color:black;
   background-color:corn-silk;
   display:block;
-  position:absolute;
+
   }
 
   #d{
@@ -46,7 +45,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+  
   }
 
   #e{
@@ -56,7 +55,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+  
   }
 
   #f{
@@ -66,7 +65,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+  
   }
 
   #g{
@@ -76,7 +75,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+
   }
 
   #h{
@@ -86,7 +85,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+  
   }
 
   #i{
@@ -96,7 +95,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+  
   }
 
   #j{
@@ -106,7 +105,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  position:absolute;
+  
   }
 
   button:active{
@@ -114,14 +113,10 @@
   
   }
 
-  button:hover{
-  box-shadow:#fcffa4 | rgb(252,255,164);
-  }
-
-
-  buttons{
-    display:grid;
-    grid-template-columns:repeat(3,1fr);
+  #plus{
+    height:30px;
+    width:30px:
+    
   }
 
   
