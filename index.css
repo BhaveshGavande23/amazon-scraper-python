@@ -111,6 +111,12 @@
   box-shadow:#fcffa4 | rgb(252,255,164);
   }
 
+
+  buttons{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+  }
+
   
 
 
