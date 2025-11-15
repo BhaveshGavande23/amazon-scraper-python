@@ -5,6 +5,7 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
+  
   }
 
   #b{
@@ -94,6 +95,11 @@
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
+  }
+
+  button:active{
+  box-shadow:3px 3px 10px black;
+  
   }
   
   h2 {
