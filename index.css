@@ -6,6 +6,7 @@
   background-color:corn-silk;
   box-shadow:5px;
   
+  
   }
 
   #b{
@@ -122,8 +123,11 @@
   }
 
 
-  
-
+  #container{
+    display:grid;
+    column-gaps:2px;
+    grid-template-rows:repeat(3,1fr)
+  }
 
 
 
