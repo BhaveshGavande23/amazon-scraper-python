@@ -114,6 +114,14 @@
   }
 
 
+  #plus{
+    height:30px;
+    width:30px;
+    display:flex;
+    align-items:top-right;
+  }
+
+
   
 
 
