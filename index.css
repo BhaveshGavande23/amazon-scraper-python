@@ -106,12 +106,11 @@
   box-shadow:3px 3px 10px black;
   
   }
-  
-  h2 {
-  align-items:center;
-  color:corn-silk;  
-  }
 
+  button:hover{
+  background-color:#1b1b1b;
+  color:silver;
+  }
 
   
 
