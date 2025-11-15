@@ -1,112 +1,16 @@
-#apple{
+  #btn{
   height:50px;
   width:50px;
   border-radius:3px;
   color:black;
   background-color:corn-silk;
   box-shadow:5px;
-  
-  
   }
 
-  #b{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-  
-  }
 
-  #c{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-  
-  }
 
-  #d{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  display:block;
-
-  }
-
-  #d{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-  
-  }
-
-  #e{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-  
-  }
-
-  #f{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-  
-  }
-
-  #g{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-
-  }
-
-  #h{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-  
-  }
-
-  #i{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-  
-  }
-
-  #j{
-  height:50px;
-  width:50px;
-  border-radius:3px;
-  color:black;
-  background-color:corn-silk;
-  box-shadow:5px;
-  
+  button:active{
+  box-shadow:3px 3p
   }
 
   button:active{
