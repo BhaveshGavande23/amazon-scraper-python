@@ -24,13 +24,6 @@
   
   }
 
-  #sign{
-  height:30px;
-  width:30px;
-  broder-radius:none;
-  
-  }
-
   #operators{
   display:relative;
   left:120px;
@@ -51,6 +44,12 @@
     margin-bottom:5px;
     border-width:3px;
   }
+
+ #plus{
+   position:absolute;
+   left:200px;
+   top:100px;
+ }
 
 
 
