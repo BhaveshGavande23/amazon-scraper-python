@@ -29,15 +29,7 @@
   left:120px;
   top:-40px;
   }
-
-
-  p {
-    font-family:monospace;
-    position:static;
-    color:#0C0A00;
-    font-weight:bold;
-  }
-
+  
   #display{
     border:solid-black;
     height:30px;
