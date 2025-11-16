@@ -51,6 +51,18 @@
    top:100px;
  }
 
+ #minus{
+   position:absolute;
+   left:200px;
+   top:100px;
+ }
+
+ #mul{
+   position:absolute;
+   left:200px;
+   top:100px;
+ }
+
 
 
 
