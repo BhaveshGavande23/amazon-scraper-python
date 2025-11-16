@@ -45,7 +45,8 @@
   #display{
     border:solid-black;
     height:30px;
-    margin-bottom:3px;
+    margin-bottom:5px;
+    border-width:3px;
     
   }
 
