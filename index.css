@@ -16,6 +16,7 @@
   display:grid;
   column-gaps:2px;
   grid-template-columns:repeat(3,1fr);
+  row-gaps:5px;
   }
 
 
