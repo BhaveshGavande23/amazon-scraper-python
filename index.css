@@ -53,6 +53,25 @@
    top:100px;
  }
 
+#divide{
+   position:absolute;
+   left:200px;
+   top:100px;
+ }
+
+#ans{
+   position:absolute;
+   left:200px;
+   top:100px;
+ }
+
+#clear{
+   position:absolute;
+   left:200px;
+   top:100px;
+ }
+
+
 
 
 
