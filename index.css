@@ -25,13 +25,13 @@
   height:30px;
   width:30px;
   broder-radius:none;
+  
   }
 
   #operators{
-  display:grid;
-  grid-template-columns:repeat(1,1fr);
-  columns-gaps:5px;
-  align-items:top-right;
+  display:relative;
+  left:120px;
+  top:-40px;
   }
 
 
@@ -47,9 +47,7 @@
     height:30px;
     margin-bottom:5px;
     border-width:3px;
-    
   }
-
 
 
 
