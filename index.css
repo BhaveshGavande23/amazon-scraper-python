@@ -45,31 +45,31 @@
  #minus{
    position:absolute;
    left:200px;
-   top:100px;
+   top:120px;
  }
 
  #mul{
    position:absolute;
    left:200px;
-   top:100px;
+   top:140px;
  }
 
 #divide{
    position:absolute;
    left:200px;
-   top:100px;
+   top:160px;
  }
 
 #ans{
    position:absolute;
    left:200px;
-   top:100px;
+   top:180px;
  }
 
 #clear{
    position:absolute;
    left:200px;
-   top:100px;
+   top:200px;
  }
 
 
