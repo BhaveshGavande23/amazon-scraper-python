@@ -17,6 +17,7 @@
   column-gaps:2px;
   grid-template-columns:repeat(3,1fr);
   row-gaps:5px;
+  grid-gap:0;
   }
 
   #sign{
@@ -26,10 +27,10 @@
   }
 
   #operators{
-    display:grid;
-    grid-template-columns:repeat(1,1fr);
-    columns-gaps:5px;
-    align-items:top-right;
+  display:grid;
+  grid-template-columns:repeat(1,1fr);
+  columns-gaps:5px;
+  align-items:top-right;
   }
 
 
