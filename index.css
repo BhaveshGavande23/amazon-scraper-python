@@ -7,6 +7,16 @@
   box-shadow:5px;
   }
 
+  #btn0{
+  height:50px;
+  width:50px;
+  border-radius:3px;
+  color:black;
+  background-color:corn-silk;
+  box-shadow:5px;
+  grid-column:2;
+  }
+
   button:active{
   box-shadow:3px 3px 10px black;
   
