@@ -15,7 +15,7 @@
   #container{
   display:grid;
   column-gaps:2px;
-  grid-template-columns:repeat(3,1fr);
+  grid-template-columns:repeat(3,60px);
   row-gaps:5px;
   grid-gap:0;
   }
