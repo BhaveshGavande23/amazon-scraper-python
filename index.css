@@ -16,8 +16,9 @@
   display:grid;
   column-gaps:2px;
   grid-template-columns:repeat(3,60px);
-  row-gaps:5px;
   grid-gap:0;
+  row-gaps:5px;
+  
   }
 
   #sign{
