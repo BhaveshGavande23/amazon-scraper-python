@@ -3,12 +3,12 @@ function displayvalue(val) {
 }
 
 function calculate() {
-    let expression = document.getElementById("display").value;
-    let result = eval(expression);  // calculate result
-    document.getElementById("display").value = result;
+    let exp = document.getElementById("display").value;
+    if (exp) {
+        document.getElementById("display").value = eval(exp);
+    }
 }
 
-function clearScreen() {
+function clearscreen() {
     document.getElementById("display").value = "";
 }
-
