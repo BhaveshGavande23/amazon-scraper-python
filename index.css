@@ -39,36 +39,48 @@
 
  #plus{
    position:absolute;
+   height:30px;
+   width:30px;
    left:190px;
    top:120px;
  }
 
  #minus{
    position:absolute;
+   height:30px;
+   width:30px;
    left:190px;
    top:120px;
  }
 
  #mul{
    position:absolute;
+   height:30px;
+   width:30px;
    left:190px;
    top:220px;
  }
 
 #divide{
    position:absolute;
+   height:30px;
+   width:30px;
    left:190px;
    top:240px;
  }
 
 #ans{
    position:absolute;
+   height:30px;
+   width:30px;
    left:190px;
    top:260px;
  }
 
 #clear{
    position:absolute;
+   height:30px;
+   width:30px;
    left:190px;
    top:300px;
    background-color:rgb(255,140,0,0.5);
