@@ -39,39 +39,39 @@
 
  #plus{
    position:absolute;
-   left:200px;
-   top:100px;
+   left:190px;
+   top:120px;
  }
 
  #minus{
    position:absolute;
-   left:200px;
+   left:190px;
    top:120px;
  }
 
  #mul{
    position:absolute;
-   left:200px;
+   left:190px;
    top:220px;
  }
 
 #divide{
    position:absolute;
-   left:200px;
+   left:190px;
    top:240px;
  }
 
 #ans{
    position:absolute;
-   left:200px;
+   left:190px;
    top:260px;
  }
 
 #clear{
    position:absolute;
-   left:200px;
+   left:190px;
    top:300px;
-   background-color:rgb(255,140,0,0.5;
+   background-color:rgb(255,140,0,0.5);
    color:white;
  }
 
