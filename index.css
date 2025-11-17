@@ -90,6 +90,7 @@
    border-radius:2px;
    box-shadow:3px;
    border:solid black 2px;
+   background-color:rgba(152,251,152,0.90)
  }
 
 #clear{
@@ -109,6 +110,16 @@
    
    color:rgba(255,255,255,0.45);
    font-shadow:3px;
+   
+ }
+
+ #switch{
+   position:absolute;
+   left:190px;
+   height:30px;
+   width:30px;
+   top:93px;
+   
    
  }
 
