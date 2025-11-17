@@ -130,7 +130,8 @@
    align-content:center;
    border:solid black;
    box-width:260px;
-   box-height:300px;
+   box-height:290px;
+   border-radius:2px;
    margin:5px;
  }
  <!--@media (max-width:500px){
