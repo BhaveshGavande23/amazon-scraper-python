@@ -42,7 +42,7 @@
    height:30px;
    width:30px;
    left:190px;
-   top:120px;
+   top:123px;
  }
 
  #minus{
@@ -50,7 +50,7 @@
    height:30px;
    width:30px;
    left:190px;
-   top:120px;
+   top:156px;
  }
 
  #mul{
@@ -58,7 +58,7 @@
    height:30px;
    width:30px;
    left:190px;
-   top:220px;
+   top:189px;
  }
 
 #divide{
@@ -66,7 +66,7 @@
    height:30px;
    width:30px;
    left:190px;
-   top:240px;
+   top:222px;
  }
 
 #ans{
@@ -74,7 +74,7 @@
    height:30px;
    width:30px;
    left:190px;
-   top:260px;
+   top:255px;
  }
 
 #clear{
@@ -82,7 +82,7 @@
    height:30px;
    width:30px;
    left:190px;
-   top:300px;
+   top:288px;
    background-color:rgb(255,140,0,0.5);
    color:white;
  }
