@@ -116,12 +116,20 @@
  #switch{
    position:absolute;
    left:190px;
-   height:30px;
+   height:33px;
    width:30px;
    top:83px;
+   border:3px;
+   box-shadow:2px;
  }
 
 
+
+ #program{
+   align-content:center;
+   border:solid black;
+   
+ }
  <!--@media (max-width:500px){
    .container{
      flex-direction:column;
