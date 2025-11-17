@@ -43,6 +43,9 @@
    width:30px;
    left:190px;
    top:123px;
+   border-radius:2px;
+   box-shadow:3px;
+   border:solid black 2px;
  }
 
  #minus{
@@ -51,6 +54,9 @@
    width:30px;
    left:190px;
    top:156px;
+   border-radius:2px;
+   box-shadow:3px;
+   border:solid black 2px;
  }
 
  #mul{
@@ -59,6 +65,9 @@
    width:30px;
    left:190px;
    top:189px;
+   border-radius:2px;
+   box-shadow:3px;
+   border:solid black 2px;
  }
 
 #divide{
@@ -67,6 +76,9 @@
    width:30px;
    left:190px;
    top:222px;
+   border-radius:2px;
+   box-shadow:3px;
+   border:solid black 2px;
  }
 
 #ans{
@@ -75,6 +87,9 @@
    width:30px;
    left:190px;
    top:255px;
+   border-radius:2px;
+   box-shadow:3px;
+   border:solid black 2px;
  }
 
 #clear{
@@ -85,6 +100,9 @@
    top:288px;
    background-color:rgb(255,140,0,0.5);
    color:white;
+   border-radius:2px;
+   box-shadow:3px;
+   border:solid black 2px;
  }
 
  placeholder{
