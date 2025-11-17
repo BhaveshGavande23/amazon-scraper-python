@@ -128,6 +128,8 @@
  #program{
    align-content:center;
    border:solid black;
+   border-width:260px;
+   border-height:300px;
    
  }
  <!--@media (max-width:500px){
