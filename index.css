@@ -129,10 +129,11 @@
  #program{
    align-content:center;
    border:solid black;
-   width:260px;
+   width:220px;
    height:290px;
    border-radius:2px;
    margin:5px;
+   padding-left:0;
  }
  <!--@media (max-width:500px){
    .container{
