@@ -11,16 +11,18 @@ body{
 
 .main {
   display:flex;
-  
+  height:100%vh;
 }
 
 .sidebar {
   background-color: red;
+  width:340px;
   
 }
 
 .main-content{
   background-color:blue;
+  flex:1;
 }
 
 .music-player {
