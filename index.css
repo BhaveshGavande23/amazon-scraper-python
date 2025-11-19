@@ -12,22 +12,27 @@ body{
 .main {
   display:flex;
   height:100%vh;
+
 }
 
 .sidebar {
-  background-color: red;
+  background-color: #121212;
   width:340px;
+  border-radius: 1rem; /*16px*/
+  
   
 }
 
 .main-content{
-  background-color:blue;
+  background-color: #121212;
   flex:1;
+  border-radius: 1rem;
+  overflow: auto;
   
 }
 
 .music-player {
-  background-color:yellow;
+  background-color: black;
   position:fixed;
   bottom:0px;
   width:100%;
