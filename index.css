@@ -160,7 +160,10 @@ a{
   display:flex;
   justify-content:center;
   align-items:center;
-  
+}
+
+.nav-item{
+ margin-right:1rem;
 }
 
 
