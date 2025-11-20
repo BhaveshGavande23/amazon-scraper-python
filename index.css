@@ -148,9 +148,13 @@ a{
   background-color:#121212;
   display:flex;
   justify-content:space-between;
+  align-items:center;
+  padding:1rem 0 1rem 0;
 }
 
-
+.arrows{
+  font-size:2rem;
+}
 
 
 
