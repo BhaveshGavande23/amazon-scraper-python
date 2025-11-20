@@ -152,9 +152,18 @@ a{
   padding:1rem 0 1rem 0;
 }
 
-.arrows{
-  font-size:2rem;
+.sticky-nav arrows{
+  margin-left:0.75rem;
 }
+
+.sticky-nav-options{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+
+
 
 
 
