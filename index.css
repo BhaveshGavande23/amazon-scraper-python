@@ -74,6 +74,15 @@ a{
   margin-left:1rem;
 }
 
+.library{
+  background-color:#121212;
+  border-radius: 1rem;
+}
+
+.options{
+  display:flex;
+}
+
 
 
 
