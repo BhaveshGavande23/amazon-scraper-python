@@ -224,25 +224,40 @@ a{
 
 .music-player{
   display:flex;
+  justify-content:space-between;
+  align-items:center;
 }
 
 .album{
   width:25%;
+  background-color:pink;
 }
 
 .player{
-   width:50%;
+  width:50%;
+  background-color:red;
 }
 
 .controls{
-   width:25%;
+  width:25%;
+  background-color:yellow;
+}
+
+.player-control{
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
 
 .player-control-icons{
   height:1rem;
+  margin-right:2rem;
+  opacity:0.7;
 }
 
-
+.player-control-icons:hover{
+  opacity:1;
+}
 
 
 
