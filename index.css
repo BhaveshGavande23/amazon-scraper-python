@@ -184,10 +184,12 @@ a{
   border-radius:0.5rem;
   padding: 1rem;
   margin-left:1rem;
+  margin-top:1rem;
 }
 
 .cards-container{
   display:flex;
+  flex-wrap:wrap;
 }
   
 .card-img{
@@ -203,6 +205,7 @@ a{
   font-size:0.85rem;
   opacity:0.8;
 }
+
 
 
 
