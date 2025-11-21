@@ -178,7 +178,34 @@ a{
   }
 }
 
+.card{
+  background-color:#232323;
+  width:150px;
+}
 
-
+.card-container{
+  display:flex;
+}
   
+.card-img{
+  width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
