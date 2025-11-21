@@ -183,6 +183,7 @@ a{
   width:150px;
   border-radius:0.5rem;
   padding: 1rem;
+  margin-left:1rem;
 }
 
 .cards-container{
@@ -196,14 +197,13 @@ a{
 
 .card-title{
   font-weight:600;
-  padding-left:1rem;
 }
 
 .card-info{
   font-size:0.85rem;
   opacity:0.8;
-  padding:1rem;
 }
+
 
 
 
