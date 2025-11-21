@@ -173,7 +173,9 @@ a{
 }
 
 @media(max-width:1000px) {
-  
+  .hide{
+    display:none;
+  }
 }
 
 
