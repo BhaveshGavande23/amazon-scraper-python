@@ -267,6 +267,10 @@ a{
 
 .progress-bar{
   width:70%;
+  appearance:none;
+  background-color:transparent;
+  cursor:pointer;
+  
 }
 
 
